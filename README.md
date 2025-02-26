@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0500-keyboard-row) |
 ## Sorting
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0229-majority-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
