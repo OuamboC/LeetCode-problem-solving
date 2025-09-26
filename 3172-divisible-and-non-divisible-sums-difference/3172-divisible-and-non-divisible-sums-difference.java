@@ -1,35 +1,24 @@
 class Solution {
     public int differenceOfSums(int n, int m){
-        //Create an ArrayList to store numbers which are divisible by m 
-        ArrayList <Integer> divisibleNumbers = new ArrayList<>();
-        //Create an ArrayList to store numbers which are not divisible by m 
-        ArrayList <Integer> nonDivisibleNumbers = new ArrayList<>();
-        //Initialise the num1 to 0
+        HashSet<Integer> nonDivisibleNumber = new HashSet<>();
+        HashSet<Integer> DivisibleNumber = new HashSet<>();
         int num1 = 0;
-        //Initialise the num1 to 0
         int num2 = 0;
-        // Initialise diff to 0
         int diff = 0;
-        // Loop through n by respecting that the range [1,n] is inclusive
-        for( int i =1; i<= n; i++){
-            if(i % m != 0){
-                 nonDivisibleNumbers.add(i);
+        for(int i =1; i<=n; i++){
+            if(i %m != 0 ){
+                nonDivisibleNumber.add(i);
             }else{
-                divisibleNumbers.add(i);
-
+                DivisibleNumber.add(i);
             }
         }
-        System.out.println(nonDivisibleNumbers);
-        System.out.println(divisibleNumbers);
-        for(int num : nonDivisibleNumbers){
-            num1+=num;
+        for (int key : nonDivisibleNumber ){
+            num1+= key;
         }
-        for(int num : divisibleNumbers){
-            num2+=num;
+        for (int key : DivisibleNumber ){
+            num2+= key;
         }
         diff = num1 - num2;
         return diff;
-
-
     }
 }
