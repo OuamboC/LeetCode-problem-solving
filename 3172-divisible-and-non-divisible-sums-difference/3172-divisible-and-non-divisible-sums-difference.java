@@ -8,6 +8,8 @@ class Solution {
         int num1 = 0;
         //Initialise the num1 to 0
         int num2 = 0;
+        // Initialise diff to 0
+        int diff = 0;
         // Loop through n by respecting that the range [1,n] is inclusive
         for( int i =1; i<= n; i++){
             if(i % m != 0){
@@ -25,7 +27,8 @@ class Solution {
         for(int num : divisibleNumbers){
             num2+=num;
         }
-        return num1 - num2;
+        diff = num1 - num2;
+        return diff;
 
 
     }
