@@ -15,9 +15,9 @@ class Solution {
                 char nextChar = s.charAt(i+1);
 
                 int currentAscii = charactersAndAscii.get(currentChar);
-                int NextAscii = charactersAndAscii.get(nextChar);
+                int nextAscii = charactersAndAscii.get(nextChar);
 
-                score +=Math.abs(currentAscii -NextAscii);
+                score +=Math.abs(currentAscii - nextAscii);
             }
         System.out.println(charactersAndAscii);
         return score;
