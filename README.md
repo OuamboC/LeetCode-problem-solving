@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0500-keyboard-row) |
+| [3379-score-of-a-string](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/3379-score-of-a-string) |
 ## Sorting
 |  |
 | ------- |
