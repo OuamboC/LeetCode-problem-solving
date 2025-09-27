@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2812-find-the-maximum-achievable-number](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Simulation
 |  |
