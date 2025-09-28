@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0500-keyboard-row) |
 | [2048-build-array-from-permutation](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/2058-concatenation-of-array) |
+| [3194-find-words-containing-character](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0500-keyboard-row) |
+| [3194-find-words-containing-character](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/3379-score-of-a-string) |
 ## Sorting
 |  |
