@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0229-majority-element-ii) |
 | [0500-keyboard-row](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0500-keyboard-row) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -69,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
