@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0014-longest-common-prefix) |
 | [0078-subsets](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0229-majority-element-ii) |
 | [0500-keyboard-row](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0500-keyboard-row) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0014-longest-common-prefix) |
 | [0345-reverse-vowels-of-a-string](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0500-keyboard-row) |
 | [3194-find-words-containing-character](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/3194-find-words-containing-character) |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
