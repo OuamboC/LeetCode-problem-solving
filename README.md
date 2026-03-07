@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0229-majority-element-ii) |
 | [0500-keyboard-row](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0500-keyboard-row) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0500-keyboard-row) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0500-keyboard-row) |
@@ -36,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
