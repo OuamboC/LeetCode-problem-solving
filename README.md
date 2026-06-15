@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0229-majority-element-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0242-valid-anagram) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0018-4sum) |
 | [0345-reverse-vowels-of-a-string](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 ## Stack
 |  |
