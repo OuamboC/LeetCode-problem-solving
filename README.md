@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0229-majority-element-ii) |
@@ -55,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0345-reverse-vowels-of-a-string](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -107,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
