@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0078-subsets) |
+| [0209-minimum-size-subarray-sum](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0229-majority-element-ii) |
 | [0500-keyboard-row](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0500-keyboard-row) |
@@ -123,5 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
