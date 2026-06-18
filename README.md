@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0078-subsets) |
+| [0219-contains-duplicate-ii](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0229-majority-element-ii) |
 | [0500-keyboard-row](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0500-keyboard-row) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0049-group-anagrams) |
+| [0219-contains-duplicate-ii](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0383-ransom-note) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/OuamboC/LeetCode-problem-solving/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
